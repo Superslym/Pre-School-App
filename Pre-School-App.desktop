@@ -1,0 +1,8 @@
+[Desktop Entry]
+Version=1.0
+Name=Pre-School App
+Comment=Launch the Pre-School App development server
+Exec=cd /workspaces/Pre-School-App && npm start
+Terminal=true
+Type=Application
+Categories=Development;
