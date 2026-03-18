@@ -1,0 +1,18 @@
+export default {
+  welcome: '¡Bienvenido a LearnPlay!',
+  startAdventure: 'Comenzar aventura',
+  parentDashboard: 'Panel de padres',
+  countStars: '¡Cuenta las estrellas!',
+  score: 'Puntuación',
+  totalCorrect: 'Total correcto',
+  unlockAdvanced: '¡Desbloquear nivel avanzado!',
+  backToHome: 'Volver al inicio',
+  confirmLeaveTitle: 'Confirmar',
+  confirmLeaveMessage: 'Tienes un juego en progreso. ¿Estás seguro de que quieres salir?',
+  cancel: 'Cancelar',
+  yes: 'Sí',
+  privacyInfo: "Respetamos tu privacidad. No se recopilan datos personales.",
+  aboutTitle: 'Acerca de / Privacidad',
+  correctFeedback: '¡Correcto! 🎉',
+  wrongFeedback: '¡Intenta de nuevo! 😊',
+};
