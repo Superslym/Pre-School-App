@@ -9,6 +9,20 @@ npm install
 npm run start
 ```
 
+## Run in the Browser (Web)
+
+This app can run in a desktop browser using Expo Web.
+
+```bash
+npm run web
+```
+
+Then open the URL printed by Expo (usually `http://localhost:19006`).
+
+### Hosted demo (GitHub Pages)
+
+A build is automatically deployed to GitHub Pages on every push to `main`: **https://Superslym.github.io/Pre-School-App/**
+
 ## Localization
 
 Strings are defined in `locales/` and loaded by `i18n.js`. Add additional languages by creating a new file under `locales` and updating the map in `i18n.js`.

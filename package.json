@@ -2,12 +2,14 @@
   "name": "pre-school-app",
   "version": "1.0.0",
   "private": true,
+  "homepage": "https://Superslym.github.io/Pre-School-App",
   "main": "node_modules/expo/AppEntry.js",
   "scripts": {
     "start": "expo start",
     "android": "expo start --android",
     "ios": "expo start --ios",
-    "web": "expo start --web"
+    "web": "expo start --web",
+    "web-build": "expo build:web --no-interactive"
   },
   "dependencies": {
     "expo": "~48.0.0",
